@@ -1,0 +1,22 @@
+\chapter{Future Research}
+\label{ch:Fr}
+Future work on the detection of lead and copper using convolutional neural networks (CNNs) can expand in several directions. Firstly, integrating additional heavy metals such as mercury, arsenic, and cadmium into the detection model would broaden its applicability and usefulness. This expansion would involve gathering extensive datasets for these metals, followed by training and validating the model to ensure high accuracy and reliability. Additionally, improving the data collection techniques by incorporating advanced sensors and equipment could enhance the precision of the model. This improvement would involve collaborations with experts in sensor technology and data acquisition to develop a more robust and accurate detection system.
+
+Another promising avenue is the development of a real-time monitoring system for detecting lead and copper in soil or water samples. Integrating IoT (Internet of Things) devices could enable remote monitoring and data collection, providing real-time updates and alerts for contamination levels. Moreover, exploring other machine learning algorithms such as Random Forest, SVM (Support Vector Machines), or Deep Learning techniques like RNN (Recurrent Neural Networks) and LSTM (Long Short-Term Memory) networks could potentially improve the performance of the current CNN model. Extensive field testing and validation in various environments would be crucial to ensure the model's robustness and accuracy in real-world conditions. Collaborations with environmental agencies or institutions for large-scale validation studies could provide valuable insights and further enhance the model's reliability.
+
+
+% Uncomment for bibliography on each chapter.
+% \bibliographystyle{plainnat}				
+% \markright{\textit{Bibliography}}
+ \renewcommand{\chaptername}{Future Works}
+% \bibliography{my_references}
+
+% \vfill
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "DMSE-Thesis"
+%%% End:
+
+
