@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  18 JUL 2024 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  18 JUL 2024 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1313,8 +1313,8 @@ LaTeX Warning: Label `fig:main' multiply defined.
 LaTeX Warning: Label `fig:logo' multiply defined.
 
 ) (./05-Discussion.aux) (./06-Conclusions.aux) (./07-Future.aux)
-(./09-Bibliography.aux) (./app_pprofile.aux) (./app_specimens.aux)
-(./app_thesis_prep.aux) (./app_figs.aux))
+(./app_pprofile.aux) (./app_specimens.aux) (./app_thesis_prep.aux)
+(./app_figs.aux))
 \openout1 = `DMSE-Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
@@ -1338,8 +1338,7 @@ LaTeX Font Info:    ... okay on input line 113.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 113.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 13.
-
-(c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 113.
@@ -1539,6 +1538,9 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 Package xcolor Warning: Incompatible color definition on input line 10.
 
 
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
 Package xcolor Warning: Incompatible color definition on input line 15.
 
 
@@ -1549,12 +1551,6 @@ Package xcolor Warning: Incompatible color definition on input line 17.
 
 
 Package xcolor Warning: Incompatible color definition on input line 18.
-
-
-Package xcolor Warning: Incompatible color definition on input line 19.
-
-
-Package xcolor Warning: Incompatible color definition on input line 20.
 
 )
 \tf@toc=\write4
@@ -1570,7 +1566,10 @@ LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 158.
 (./DMSE-Thesis.lot
 
-Package xcolor Warning: Incompatible color definition on input line 7.
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
 
 )
 \tf@lot=\write5
@@ -1603,11 +1602,16 @@ Package xcolor Warning: Incompatible color definition on input line 10.
 
 [6
 
-]
+] (./TableAbb.tex
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 6.
+)
+
+[7]
 Acknowledgements
 (./00-Acknowledgements.tex)
 
-[7
+[8
 
 ]
 ABSTRACT
@@ -1639,6 +1643,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 7.
+LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 11.
+
+
+Package natbib Warning: Citation `noauthor_lead_2023r' on page 2 undefined on i
+nput line 11.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1648,23 +1659,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<./Pipe.jpg, id=149, 1927.2pt x 1084.05pt>
+<./Pipe.jpg, id=151, 1927.2pt x 1084.05pt>
 File: ./Pipe.jpg Graphic file (type jpg)
 <use ./Pipe.jpg>
-Package pdftex.def Info: ./Pipe.jpg  used on input line 28.
+Package pdftex.def Info: ./Pipe.jpg  used on input line 31.
 (pdftex.def)             Requested size: 1927.19533pt x 1084.04736pt.
 
-Overfull \hbox (1493.57533pt too wide) in paragraph at lines 24--29
+Overfull \hbox (1493.57533pt too wide) in paragraph at lines 27--32
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 506.59242pt on input line 31.
+LaTeX Warning: Float too large for page by 506.59242pt on input line 34.
+
+
+Package natbib Warning: Citation `noauthor_lead_2023' on page 3 undefined on in
+put line 41.
 
 )
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 182.
+(Font)              scaled to size 12.0pt on input line 185.
 [3]
 
 [4 <./Pipe.jpg>]
@@ -1684,24 +1699,24 @@ Chapter 2
 
  (./03-Methods.tex
 Chapter 3
-<./Section_2.png, id=165, 589.4522pt x 372.64218pt>
+<./Section_2.png, id=166, 589.4522pt x 372.64218pt>
 File: ./Section_2.png Graphic file (type png)
 <use ./Section_2.png>
 Package pdftex.def Info: ./Section_2.png  used on input line 16.
 (pdftex.def)             Requested size: 173.44534pt x 109.64987pt.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 17.
-<./Complete.jpg, id=167, 829.97578pt x 415.5525pt>
+<./Complete.jpg, id=168, 829.97578pt x 415.5525pt>
 File: ./Complete.jpg Graphic file (type jpg)
 <use ./Complete.jpg>
 Package pdftex.def Info: ./Complete.jpg  used on input line 24.
 (pdftex.def)             Requested size: 173.44534pt x 86.83742pt.
-<./Model_Image.png, id=168, 1227.83719pt x 663.98062pt>
+<./Model_Image.png, id=169, 1227.83719pt x 663.98062pt>
 File: ./Model_Image.png Graphic file (type png)
 <use ./Model_Image.png>
 Package pdftex.def Info: ./Model_Image.png  used on input line 41.
 (pdftex.def)             Requested size: 173.44534pt x 93.78743pt.
-<./Model_Image_12.png, id=169, 1227.83719pt x 663.98062pt>
+<./Model_Image_12.png, id=170, 1227.83719pt x 663.98062pt>
 File: ./Model_Image_12.png Graphic file (type png)
 <use ./Model_Image_12.png>
 Package pdftex.def Info: ./Model_Image_12.png  used on input line 48.
@@ -1784,18 +1799,6 @@ Chapter 7
 
 
 ]
-\openout2 = `09-Bibliography.aux'.
-
- (./09-Bibliography.tex (./DMSE-Thesis.bbl
-References
-))
-
-[13
-
-
-
-
-]
 \openout2 = `app_pprofile.aux'.
 
 
@@ -1809,11 +1812,13 @@ No file app_thesis_prep.tex.
 \openout2 = `app_figs.aux'.
 
 No file app_figs.tex.
+
+Package natbib Warning: There were undefined citations.
+
 (./DMSE-Thesis.aux (./01-Introduction.aux) (./02-Literature.aux)
 (./03-Methods.aux) (./04-Results.aux) (./05-Discussion.aux)
-(./06-Conclusions.aux) (./07-Future.aux) (./09-Bibliography.aux)
-(./app_pprofile.aux) (./app_specimens.aux) (./app_thesis_prep.aux)
-(./app_figs.aux))
+(./06-Conclusions.aux) (./07-Future.aux) (./app_pprofile.aux)
+(./app_specimens.aux) (./app_thesis_prep.aux) (./app_figs.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -1823,42 +1828,45 @@ L3 programming layer <2024-05-27>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `DMSE-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: AF9790A66A1AEC9BF7D5011314161DBA;2197.
+(rerunfilecheck)             Checksum: 26C8BE761B020490A3A187F5FB7B9F45;2103.
  ) 
 Here is how much of TeX's memory you used:
- 19171 strings out of 473584
- 307737 string characters out of 5732364
+ 19168 strings out of 473584
+ 307367 string characters out of 5732364
  1936908 words of memory out of 5000000
- 41233 multiletter control sequences out of 15000+600000
- 641443 words of font info for 217 fonts, out of 8000000 for 9000
+ 41229 multiletter control sequences out of 15000+600000
+ 647955 words of font info for 227 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,8n,131p,1008b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,10n,131p,1008b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-<c:/texlive/2024/texmf-dist/fonts/type1/public/heuristica/Heuristica-Italic.pfb
-><c:/texlive/2024/texmf-dist/fonts/type1/public/heuristica/Heuristica-Regular.p
-fb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/te
-xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/202
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0800
-.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><c:/t
-exlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb><c:/texlive/202
-4/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb><c:/texlive/2024/texmf-di
-st/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2024/texmf-dist/fonts/t
-ype1/public/cm-super/sfsx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
-c/cm-super/sfsx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/ua
-gd8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/te
-xlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2024/tex
-mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on DMSE-Thesis.pdf (20 pages, 2160900 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/heuristica/Heuristica-Bold.pfb><
+c:/texlive/2024/texmf-dist/fonts/type1/public/heuristica/Heuristica-Italic.pfb>
+<c:/texlive/2024/texmf-dist/fonts/type1/public/heuristica/Heuristica-Regular.pf
+b><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/te
+xlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb><c:/texlive/2024/texmf-dis
+t/fonts/type1/public/cm-super/sfss1200.pfb><c:/texlive/2024/texmf-dist/fonts/ty
+pe1/public/cm-super/sfss1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public
+/cm-super/sfsx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/
+sfsx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx1728.p
+fb><c:/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb><c:/texlive/
+2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist
+/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/u
+rw/helvetic/uhvr8a.pfb>
+Output written on DMSE-Thesis.pdf (20 pages, 2214115 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
- 77983 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 85143 words of extra memory for PDF output out of 89155 (max. 10000000)
 

@@ -1,0 +1,24 @@
+
+\begin{table}[t]
+  \centering
+  \caption{\textbf{Symbol Definitions}}
+  \begin{scriptsize}
+    \renewcommand{\arraystretch}{1.1}
+    \begin{tabular}{|@{~\ }c|@{~~}p{0.8\hsize}|}
+      \hline
+      \(\rho\) & Density \(n\).\\
+      \(S\) & Strenght\\
+      \(F_v\) & Force \(n\).\\
+      \(t\) & time \(n\).\\
+      \(u\) & displacement \(n\).\\
+      \hline
+    \end{tabular}
+  \end{scriptsize}
+  \label{tab:sym}
+\end{table}
+
+
+%%% Local Variables:
+%%% mode: fundamental
+%%% TeX-master: "DMSE-Thesis"
+%%% End:
