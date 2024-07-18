@@ -8,7 +8,6 @@ A level-1 auxiliary file: 04-Results.aux
 A level-1 auxiliary file: 05-Discussion.aux
 A level-1 auxiliary file: 06-Conclusions.aux
 A level-1 auxiliary file: 07-Future.aux
-A level-1 auxiliary file: AdvantagesDisadvantages.aux
 A level-1 auxiliary file: 09-Bibliography.aux
 A level-1 auxiliary file: app_pprofile.aux
 A level-1 auxiliary file: app_specimens.aux
@@ -18,7 +17,7 @@ The style file: plainnat.bst
 Database file #1: reference.bib
 You've used 2 entries,
             2773 wiz_defined-function locations,
-            619 strings with 5401 characters,
+            618 strings with 5374 characters,
 and the built_in function-call counts, 721 in all, are:
 = -- 63
 > -- 31

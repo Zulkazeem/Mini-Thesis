@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  17 JUL 2024 13:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  18 JUL 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1826,11 +1826,11 @@ Package rerunfilecheck Info: File `DMSE-Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: AF9790A66A1AEC9BF7D5011314161DBA;2197.
  ) 
 Here is how much of TeX's memory you used:
- 19173 strings out of 473584
- 307813 string characters out of 5732364
+ 19171 strings out of 473584
+ 307737 string characters out of 5732364
  1936908 words of memory out of 5000000
- 41232 multiletter control sequences out of 15000+600000
- 641737 words of font info for 219 fonts, out of 8000000 for 9000
+ 41233 multiletter control sequences out of 15000+600000
+ 641443 words of font info for 217 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,8n,131p,1008b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -1855,7 +1855,7 @@ c/cm-super/sfsx1728.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/avantgar/ua
 gd8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/te
 xlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2024/tex
 mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on DMSE-Thesis.pdf (20 pages, 2160933 bytes).
+Output written on DMSE-Thesis.pdf (20 pages, 2160893 bytes).
 PDF statistics:
  320 PDF objects out of 1000 (max. 8388607)
  247 compressed objects within 3 object streams
