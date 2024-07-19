@@ -141,7 +141,7 @@
 
 % Dedication page (optional). Indicate linebreaks by "\\".
 \dedication{Dedicated to Progress in\\
-  Civil Engineering}
+  Civil and Environmental Engineering}
 
 % Preface (optional).
 % \preface
@@ -177,7 +177,7 @@
 % black and white), but not disturbing in long lists of references.
 \definecolor{linkcol}{rgb}{0.,0.,0.5}
 \definecolor{citecol}{rgb}{0.,0.,0.5}
-\definecolor{headcol}{rgb}{0.53,0.81,0.95}
+\definecolor{headcol}{rgb}{0.54, 0.0, 0.0}
 
 \include{01-Introduction}
 \include{02-Literature}
@@ -186,7 +186,6 @@
 \include{05-Discussion}
 \include{06-Conclusions}
 \include{07-Future}
-\include{AdvantagesDisadvantages}
 \include{09-Bibliography}
 \appendix
 \include{app_pprofile} % HHP profile

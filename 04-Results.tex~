@@ -32,7 +32,7 @@ The integration of COMSOL simulations with machine learning resulted in a compre
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.4\hsize]{../Graph.png}
+  \includegraphics[width=0.4\hsize]{./Graph.png}
   \caption{The graph that distinguishes between lead and copper.}
   \label{fig:logo}
 \end{figure}

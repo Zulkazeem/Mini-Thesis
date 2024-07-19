@@ -8,53 +8,51 @@ A level-1 auxiliary file: 04-Results.aux
 A level-1 auxiliary file: 05-Discussion.aux
 A level-1 auxiliary file: 06-Conclusions.aux
 A level-1 auxiliary file: 07-Future.aux
+A level-1 auxiliary file: 09-Bibliography.aux
 A level-1 auxiliary file: app_pprofile.aux
 A level-1 auxiliary file: app_specimens.aux
 A level-1 auxiliary file: app_thesis_prep.aux
 A level-1 auxiliary file: app_figs.aux
 The style file: plainnat.bst
-I found no \bibdata command---while reading file DMSE-Thesis.aux
-Warning--I didn't find a database entry for "noauthor_lead_2023r"
-Warning--I didn't find a database entry for "noauthor_lead_2023"
-You've used 0 entries,
+Database file #1: reference.bib
+You've used 1 entry,
             2773 wiz_defined-function locations,
-            604 strings with 5047 characters,
-and the built_in function-call counts, 33 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 10
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            610 strings with 5201 characters,
+and the built_in function-call counts, 332 in all, are:
+= -- 26
+> -- 10
+< -- 1
++ -- 4
+- -- 3
+* -- 19
+:= -- 55
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 4
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 15
+empty$ -- 33
+format.name$ -- 4
+if$ -- 65
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 12
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 3
 quote$ -- 0
-skip$ -- 1
+skip$ -- 14
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 2
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 11
 warning$ -- 0
-while$ -- 0
+while$ -- 3
 width$ -- 0
-write$ -- 7
-(There was 1 error message)
+write$ -- 19

@@ -1,5 +1,5 @@
 \chapter{Conclusions}
-
+\noindent
 This study presents a novel method for detecting lead and copper in buried pipes by integrating COMSOL simulations with machine learning techniques. The enhanced model and extensive dataset generation contribute to a more accurate and efficient detection system. Future work will focus on optimizing the computational aspects and further validating the model with real-world data.
 
 % Uncomment for bibliography on each chapter.

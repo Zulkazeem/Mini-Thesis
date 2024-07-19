@@ -1,16 +1,17 @@
 
+
 \begin{table}[t]
   \centering
-  \caption{\textbf{Symbol Definitions}}
+  \caption{Table of Symbol Definitions}
   \begin{scriptsize}
     \renewcommand{\arraystretch}{1.1}
-    \begin{tabular}{|@{~\ }c|@{~~}p{0.8\hsize}|}
+    \begin{tabular}{|@{~\ }c|@{~~}p{0.4\hsize}|}
       \hline
-      \(\rho\) & Density \(n\).\\
-      \(S\) & Strenght\\
-      \(F_v\) & Force \(n\).\\
-      \(t\) & time \(n\).\\
-      \(u\) & displacement \(n\).\\
+      \(\rho\) & Density \\
+      \(S\) & Strenght \\
+      \(F_v\) & Force \\
+      \(t\) & time \\
+      \(u\) & displacement \\
       \hline
     \end{tabular}
   \end{scriptsize}
