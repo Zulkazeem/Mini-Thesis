@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  19 JUL 2024 11:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.3)  19 JUL 2024 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1282,14 +1282,14 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
 ))))
 LaTeX Font Info:    Trying to load font information for T1+Heuristica-TLF on in
-put line 113.
+put line 114.
 
 (c:/texlive/2024/texmf-dist/tex/latex/heuristica/T1Heuristica-TLF.fd
 File: T1Heuristica-TLF.fd 2015/01/04 (autoinst) Font definitions for T1/Heurist
 ica-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 113.
+(Font)              scaled to size 12.0pt on input line 114.
 
 (./DMSE-Thesis.aux (./01-Introduction.aux) (./02-Literature.aux)
 (./03-Methods.aux
@@ -1313,65 +1313,65 @@ LaTeX Warning: Label `fig:main' multiply defined.
 (./app_specimens.aux) (./app_thesis_prep.aux) (./app_figs.aux))
 \openout1 = `DMSE-Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 113.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 114.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-13.
+14.
 
 (c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 114.
 LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 1
-13.
+14.
 
 (c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 114.
 LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 1
-13.
+14.
 
 (c:/texlive/2024/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 114.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
-13.
+14.
 
 (c:/texlive/2024/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    ... okay on input line 114.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 113.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 113
+(Font)              scaled to size 10.0pt on input line 114.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 114
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 113
+LaTeX Font Info:    Trying to load font information for U+msb on input line 114
 .
 
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1399,7 +1399,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 113.
+Package hyperref Info: Link coloring ON on input line 114.
 
 (./DMSE-Thesis.out) (./DMSE-Thesis.out)
 \@outlinefile=\write3
@@ -1411,15 +1411,15 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@mv@tabular=\count325
 \c@mv@boldtabular=\count326
-LaTeX Info: Redefining \microtypecontext on input line 113.
-Package microtype Info: Applying patch `item' on input line 113.
-Package microtype Info: Applying patch `toc' on input line 113.
-Package microtype Info: Applying patch `eqnum' on input line 113.
+LaTeX Info: Redefining \microtypecontext on input line 114.
+Package microtype Info: Applying patch `item' on input line 114.
+Package microtype Info: Applying patch `toc' on input line 114.
+Package microtype Info: Applying patch `eqnum' on input line 114.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 113.
+Package microtype Warning: Unable to apply patch `footnote' on input line 114.
 
-Package microtype Info: Applying patch `verbatim' on input line 113.
+Package microtype Info: Applying patch `verbatim' on input line 114.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2),
 (microtype)             factor: 1200.
@@ -1427,7 +1427,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 113.
+LaTeX Info: Redefining \showhyphens on input line 114.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using default tracking set `smallcaps'.
 Package microtype Info: Adjustment of interword spacing enabled.
@@ -1439,7 +1439,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
-20.
+21.
 (c:/texlive/2024/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -1448,11 +1448,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 120.
+(Font)              scaled to size 14.4pt on input line 121.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 120.
+(Font)              scaled to size 14.4pt on input line 121.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 120.
+(Font)              scaled to size 12.0pt on input line 121.
 
 
 [1
@@ -1462,12 +1462,12 @@ LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/sc' will be
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist
 /fonts/enc/dvips/heuristica/zut_ysltpx.enc}]
 
-Package xcolor Warning: Incompatible color definition on input line 126.
+Package xcolor Warning: Incompatible color definition on input line 127.
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 126.
+(Font)              scaled to size 7.0pt on input line 127.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 127.
+(Font)              scaled to size 12.0pt on input line 128.
 
 
 [2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/heuristica/zut_geqeyh.enc}]
@@ -1482,9 +1482,9 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 144.
+(Font)              scaled to size 14.4pt on input line 145.
 
-Overfull \hbox (28.0pt too wide) in paragraph at lines 144--144
+Overfull \hbox (28.0pt too wide) in paragraph at lines 145--145
 [][] 
  []
 
@@ -1493,7 +1493,7 @@ Overfull \hbox (28.0pt too wide) in paragraph at lines 144--144
 [3]
 Table of Contents
 LaTeX Font Info:    Trying to load font information for T1+pag on input line 15
-1.
+2.
 (c:/texlive/2024/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
@@ -1502,7 +1502,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 151.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 152.
  (./DMSE-Thesis.toc
 
 Package xcolor Warning: Incompatible color definition on input line 1.
@@ -1560,7 +1560,7 @@ Package xcolor Warning: Incompatible color definition on input line 19.
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 List of Tables
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 158.
+(Font)              scaled to size 8.0pt on input line 159.
 (./DMSE-Thesis.lot
 
 Package xcolor Warning: Incompatible color definition on input line 1.
@@ -1642,7 +1642,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ])
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 181.
+(Font)              scaled to size 12.0pt on input line 182.
 [3]
 \openout2 = `02-Literature.aux'.
 
@@ -1849,7 +1849,7 @@ xlive/2024/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb><c:/texlive/2024/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2024/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/helvet
 ic/uhvr8a.pfb>
-Output written on DMSE-Thesis.pdf (19 pages, 1725525 bytes).
+Output written on DMSE-Thesis.pdf (19 pages, 1725479 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  250 compressed objects within 3 object streams
